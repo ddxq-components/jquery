@@ -4,7 +4,7 @@ var path = require('path');
 
 module.exports = {
   orgiRepo: 'components/jquery',
-  ref: '1.8.3',
+  ref: '1.9.1',
   target: path.resolve(__dirname, '..'),
 
   name: 'jquery',
